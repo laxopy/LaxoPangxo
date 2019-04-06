@@ -8,7 +8,7 @@ var circleM = {
 var shoot = {
 			x1 : 200,
 			y1 : 400,
-			y2 : y1-10
+			y2 : 390
   
 }
 
