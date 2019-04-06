@@ -6,9 +6,9 @@ var circleM = {
 }
 
 var shoot = {
-			x1 : 10,
-			y1 : 10,
-			y2 : 10
+			x1 : 200,
+			y1 : 400,
+			y2 : y1-10
   
 }
 
@@ -23,7 +23,7 @@ function setup() {
 }
 
 function draw() {
-  background(260);
+  background(150);
   fill(255,0,255);
   circle(circleM.x,circleM.y,circleM.rad);
   
