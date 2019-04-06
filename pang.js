@@ -23,7 +23,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(260);
   fill(255,0,255);
   circle(circleM.x,circleM.y,circleM.rad);
   
