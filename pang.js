@@ -6,9 +6,9 @@ var circleM = {
 }
 
 var shoot = {
-			x1 : event.screenX,
-			y1 : event.screenY,
-			y2 : y1-10
+			x1 : 10,
+			y1 : 10,
+			y2 : 10
   
 }
 
